@@ -41,6 +41,8 @@ public class NameProcessor {
 	        System.out.println("Processed Names: " + processedNames);
 	        System.out.println("Longest Name: " + longestName);
 
+		System.out.println("Adding for git demo in mewOne");
+
 	}
 
 }
